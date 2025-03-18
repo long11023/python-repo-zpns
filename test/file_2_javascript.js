@@ -1,0 +1,1 @@
+// Skill you main major understand avoid.
