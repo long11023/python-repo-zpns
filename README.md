@@ -1,3 +1,5 @@
 # python-repo-zpns
 
-Represent paper beat it ask.
+This is a sample project written in **Python**.
+
+Generated automatically.
